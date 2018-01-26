@@ -1,1 +1,14 @@
-'{}' 
+{
+    "name": "leoo/susana",
+    "type": "project",
+    "require": {
+        "ddeboer/imap": "^1.2"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "lhidalgo42",
+            "email": "lhidalgosep@gmail.com"
+        }
+    ]
+}
